@@ -3,6 +3,8 @@
 
 <img src="https://user-images.githubusercontent.com/115617643/195482868-e58b68c0-5b97-4bd8-b322-6f4eb30bbc30.jpg" width="300">
 
+* 유니코드(unicode)는 버전 13.0을 기준으로 설명한다.
+* 파이썬 프로그래밍 소스 코드는 t2bot.com에서 제공 받아 정리하였다. 예제 코드는 파이썬 3.8 버전과 PC 윈도우 환경에서 실행한다.
 * 예제 소스 코드 및 t2bot 커널(kernel) 해설(t2bot.com)
 * “파이썬으로 시작하는 한국어 정보 검색과 자연어 처리”와 관련한 300여 개의 소스
 
