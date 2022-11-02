@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/115617643/195482868-e58b68c0-5b97-4bd8-b322-6f4eb30bbc30.jpg" width="300">
 
-* 예제 소스 코드 및 t2bot 커널(kernel) 해설
+* 예제 소스 코드 및 t2bot 커널(kernel) 해설(t2bot.com)
 * “파이썬으로 시작하는 한국어 정보 검색과 자연어 처리”와 관련한 300여 개의 소스
 
 
